@@ -1,0 +1,7 @@
+Library required 
+numpy
+matlpotlib
+seaborn
+pandas
+XGBOOST
+JOBLIB
