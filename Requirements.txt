@@ -1,5 +1,6 @@
 numpy
-matlpotlib
 seaborn
 pandas
+xgboost
+scikit-learn
 
